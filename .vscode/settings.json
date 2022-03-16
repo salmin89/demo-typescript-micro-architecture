@@ -1,0 +1,20 @@
+{
+  "colorTabs.titleLabel": true,
+  "colorTabs.config": [
+    {
+      "regex": "shared-types/*",
+      "color": "#00FFFF",
+      "label": "BE"
+    },
+    {
+      "regex": "be-*",
+      "color": "#0000FF",
+      "label": "BE"
+    },
+    {
+      "regex": "fe-*",
+      "color": "#FF00FF",
+      "label": "FE"
+    }
+  ]
+}

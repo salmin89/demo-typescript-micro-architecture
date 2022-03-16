@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "target": "es6",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "outDir": "./dist"
+  },
+  "references": [
+    {
+      "path": "node_modules/shared-types",
+      // add 'prepend' if you want to include the referenced project in your output file
+      "prepend": false
+    }
+  ]
+}
