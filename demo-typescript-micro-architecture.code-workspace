@@ -1,0 +1,56 @@
+{
+  "folders": [
+    {
+      "path": "###",
+      "name": "--- LIB ---"
+    },
+    {
+      "path": "shared-types",
+      "name": "📚 shared-types"
+    },
+    {
+      "path": "##",
+      "name": "--- BE ---"
+    },
+    {
+      "path": "be-posts",
+      "name": "🚀 posts"
+    },
+    {
+      "path": "be-users",
+      "name": "🚀 users"
+    },
+    {
+      "path": "#",
+      "name": "--- FE ---"
+    },
+    {
+      "path": "fe-admin",
+      "name": "🔥 admin"
+    },
+    {
+      "path": "fe-blog",
+      "name": "🔥 blog"
+    }
+  ],
+  "settings": {
+    "colorTabs.titleLabel": true,
+    "colorTabs.config": [
+      {
+        "regex": "shared-types/*",
+        "color": "#00FFFF",
+        "label": "BE"
+      },
+      {
+        "regex": "be-*",
+        "color": "#0000FF",
+        "label": "BE"
+      },
+      {
+        "regex": "fe-*",
+        "color": "#FF00FF",
+        "label": "FE"
+      }
+    ]
+  }
+}
