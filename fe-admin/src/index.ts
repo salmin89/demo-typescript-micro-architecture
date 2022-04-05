@@ -1,6 +1,5 @@
 import { IResponse } from 'shared-types/src/shared/response.interface';
 import { IUser } from 'shared-types/src/models/users/user.models';
-import { IPost } from 'shared-types/src/models/posts/post.models';
 
 const appDiv: HTMLElement = document.getElementById('app');
 

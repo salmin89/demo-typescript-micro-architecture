@@ -34,23 +34,29 @@
     }
   ],
   "settings": {
-    "colorTabs.titleLabel": true,
-    "colorTabs.config": [
-      {
-        "regex": "shared-types/*",
-        "color": "#00FFFF",
-        "label": "BE"
-      },
-      {
-        "regex": "be-*",
-        "color": "#0000FF",
-        "label": "BE"
-      },
-      {
-        "regex": "fe-*",
-        "color": "#FF00FF",
-        "label": "FE"
-      }
-    ]
+    // "colorTabs.titleLabel": true,
+    // "colorTabs.config": [
+    //   {
+    //     "regex": "shared-types/*",
+    //     "color": "#00FFFF",
+    //     "label": "BE"
+    //   },
+    //   {
+    //     "regex": "be-*",
+    //     "color": "#0000FF",
+    //     "label": "BE"
+    //   },
+    //   {
+    //     "regex": "fe-*",
+    //     "color": "#FF00FF",
+    //     "label": "FE"
+    //   }
+    // ],
+    // "workbench.colorCustomizations": {
+    //   "tab.activeBorder": "#00FFFF",
+    //   "statusBar.background": "#00FFFF",
+    //   "statusBar.foreground": "#ffffff"
+    // },
+    // "window.title": "~[BE]~${separator}${activeEditorShort}${separator}${rootName}"
   }
 }

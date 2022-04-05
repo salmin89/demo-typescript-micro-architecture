@@ -9,7 +9,7 @@
   },
   "references": [
     {
-      "path": "node_modules/shared-types",
+      "path": "../shared-types",
       // add 'prepend' if you want to include the referenced project in your output file
       "prepend": false
     }
